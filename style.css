@@ -1,0 +1,11 @@
+h1{
+    font-size: 100px;
+  
+}
+.main{
+    background-color: bisque;
+    height: 600px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
