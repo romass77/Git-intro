@@ -4,10 +4,14 @@ h1{
    
 }
 .main{
-    background-color: aqua;
+    background-color: rgb(221, 217, 233);
     width: 100vw;
     height: 600px;
     display: flex;
     justify-content: center;
 
+}
+
+p {
+    font-style: italic;
 }
