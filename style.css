@@ -1,11 +1,20 @@
 h1{
     font-size: 100px;
-  
+    padding: 100px;
+   
 }
 .main{
-    background-color: bisque;
-    height: 600px;
+    background-color: rgb(221, 217, 233);
     width: 100vw;
+    height: 600px;
     display: flex;
     justify-content: center;
+
+}
+
+p {
+    font-style: bold;
+    font-size: larger;
+    padding: 100px;
+    color: red;
 }
